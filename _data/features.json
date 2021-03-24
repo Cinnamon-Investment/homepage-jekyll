@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Personally Optimized",
+    "description": "Our AI platform automatically optimizes portfolio and positions.",
+    "image": "images/features/social-care.svg"
+  },
+  {
+    "title": "Unique opportunities",
+    "description": "We provide easy access to various asset classes.",
+    "image": "images/features/global.svg"
+  },
+  {
+    "title": "Reliable Exection Engine",
+    "description": "Seamless investment experience with our reliable algorithmic trading & execution engine.",
+    "image": "images/features/monitoring.svg"
+  }
+]
