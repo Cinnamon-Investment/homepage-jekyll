@@ -5,6 +5,7 @@ draft: false
 image: 'images/team/janghyuk.png'
 jobtitle: 'Advisor'
 linkedinurl: ""
+promoted: false
 weight: 1
 layout: team
 ---
