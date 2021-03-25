@@ -10,7 +10,7 @@ homepage:
 asset_url: /assets
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile.svg"
   # desktop: "images/logo/CinnamonLabs_logo.svg"
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
