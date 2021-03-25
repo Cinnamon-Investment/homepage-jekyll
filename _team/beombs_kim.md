@@ -10,4 +10,4 @@ weight: 3
 layout: team
 ---
 
-Engineer with strategic mindset and expertise in AI. Studied business at Korea Univ. undergraduate school, he made a social network service "Woot" which is still in service. Experienced various AI-based services including NLP projects and product recognition projects for an unmanned store. Master's degree in AI at Kaist.
+Engineer with strategic mindset and expertise in AI. Studied business at Korea Univ. undergraduate school, he developed a location-based social network service "Woot". Experienced various AI-based services including NLP projects and product recognition projects for an unmanned store. Master's degree in AI at KAIST.
