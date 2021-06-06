@@ -10,4 +10,4 @@ weight: 3
 layout: team
 ---
 
-Engineer with strategic mindset and expertise in AI. Master's degree in AI at KAIST and Bachelor's degrees in CS and Business at Korea Univ. Developed a early version of a location-based social network service [Woot](http://www.hellowoot.co.kr/). Experienced various AI-based projects including AI code completion and product recognition for unmanned stores. 
+Engineer with strategic mindset and expertise in AI. Master's degree in AI at KAIST and Bachelor's degrees in CS and Business at Korea Univ. Developed the initial version of a location-based social network service [Woot](http://www.hellowoot.co.kr/). Experienced various AI-based projects including AI code completion and product recognition for unmanned stores. 
